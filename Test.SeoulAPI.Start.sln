@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.SeoulAPI.Start", "Test.SeoulAPI.Start\Test.SeoulAPI.Start.csproj", "{28F6B959-0667-4B64-8C24-338F1618C56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.SeoulAPI", "Test.SeoulAPI\Test.SeoulAPI.csproj", "{A82A66FB-52B4-4538-92A9-BBC80FF17D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F6B959-0667-4B64-8C24-338F1618C56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F6B959-0667-4B64-8C24-338F1618C56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F6B959-0667-4B64-8C24-338F1618C56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F6B959-0667-4B64-8C24-338F1618C56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82A66FB-52B4-4538-92A9-BBC80FF17D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82A66FB-52B4-4538-92A9-BBC80FF17D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82A66FB-52B4-4538-92A9-BBC80FF17D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82A66FB-52B4-4538-92A9-BBC80FF17D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {375E7860-8E95-4706-AB8A-A7DED9529D28}
+	EndGlobalSection
+EndGlobal
